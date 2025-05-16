@@ -26,6 +26,10 @@ The report is designed to offer stakeholders — such as hospital administrators
 - **DAX** – For calculated columns like Profit (Payer Coverage - Total Claim Cost).
 - **Excel** – For preliminary data cleaning and transformation.
 - **Hospital Dataset** – Simulated data representing real-world hospital encounters.
+- **Conditional formatting** (e.g., profit color rules)
+- **Page navigation buttons** for user-friendly exploration
+- **Shape layering and UI polishing** for visual hierarchy
+
 
 ## 💡 Key Insights
 
