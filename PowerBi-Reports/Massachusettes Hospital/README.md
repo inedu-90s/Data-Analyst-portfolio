@@ -1,4 +1,4 @@
-# 🏥 Massachusetts General Hospital – Patient and Financial Data Dashboard
+# 🏥 Massachusetts General Hospital – Patient Encounter and Financial Data Dashboard
 
 Welcome to my data analytics project, which was developed as part of my professional portfolio. This interactive **Power BI report** provides a comprehensive analysis of patient demographics, visit types, insurance coverage, cost distribution, and profitability across departments at Massachusetts General Hospital.
 
