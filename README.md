@@ -7,6 +7,7 @@ Welcome to my **Data Analyst Portfolio**, where I showcase real-world projects a
 ## 🧰 Tools & Technologies
 
 - **Power BI** – Interactive dashboards, data modeling, DAX formulas
+- **Tableau** – Interactive dashboards, data modeling
 - **SQL** – Data extraction, joins, aggregations, and subqueries
 - **Python (Pandas, NumPy, Matplotlib, Seaborn)** – Data cleaning, EDA, and automation
 - **Excel** – Advanced formulas, PivotTables, scenario modeling
