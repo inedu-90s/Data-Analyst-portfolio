@@ -2,6 +2,8 @@
 
 Welcome to my data analytics project, which was developed as part of my professional portfolio. This interactive **Power BI report** provides a comprehensive analysis of patient demographics, visit types, insurance coverage, cost distribution, and profitability across departments at Massachusetts General Hospital.
 
+## **Checkout here: https://app.powerbi.com/view?r=eyJrIjoiODc0MmQ4MDMtZjdlNC00NTYyLWE0MzgtMTQ4YTBjMjE3Yzc0IiwidCI6ImY3ZTFmNTBhLWM1Y2MtNGE1My1hZjQ4LTg4MTcxNGI3NGFjMSJ9**
+
 ## 📌 Project Overview
 
 The report is designed to offer stakeholders — such as hospital administrators and health data analysts — real-time insights for operational decision-making and financial optimization.
