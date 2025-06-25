@@ -11,7 +11,7 @@ Welcome to my **Data Analyst Portfolio**, where I showcase real-world projects a
 - **SQL** – Data extraction, joins, aggregations, and subqueries
 - **Python (Pandas, NumPy, Matplotlib, Seaborn)** – Data cleaning, EDA, and automation
 - **Excel** – Advanced formulas, PivotTables, scenario modeling
-- **STATA/Statistical Modelling** – Hypothesis testing, regressions, descriptive stats
+- **Statistical Modelling** – Hypothesis testing, regressions, descriptive stats
 
 ---
 
